@@ -1,7 +1,4 @@
-import numpy as np 
-
-  
-
+import numpy 
   
 
 # creating first matrix 
@@ -101,6 +98,11 @@ import numpy as np
 
   
 
+print("Printing elements of first matrix") 
+
+print(A) 
+
+print("Printing elements of second matrix") 
   
 
 # creating first matrix 
